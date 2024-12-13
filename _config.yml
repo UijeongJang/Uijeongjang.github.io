@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UijeongJang"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.kr/citations?user=-2WiOv4AAAAJ&hl=ko"
 
 # Site Footer
