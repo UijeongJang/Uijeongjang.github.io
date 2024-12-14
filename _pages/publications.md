@@ -1,22 +1,18 @@
 ---
+title: "Publications"
+collection: publications
+excerpt: "The list of published papers."
 permalink: /publications/
-title: Publications
+author_profile: true
 ---
 
-### Papers
+### Publications 
 -----
-- Suh, J. J., **Park, J.** and Ryu, E. K.
-**Continuous-time Analysis of Anchor Acceleration.**
-_Neural Information Processing Systems (NeurIPS)_, 2023.
-[[arXiv](https://arxiv.org/abs/2304.00771)]
 
-- **Park, J.** and Ryu, E. K.
-**Accelerated Infeasibility Detection of Constrained Optimization and Fixed-Point Iterations.**
-_International Conference on Maching Learning (ICML)_, 2023.
-[[arXiv](https://arxiv.org/abs/2303.15876)]
+- **U. Jang**, J. D. Lee, and E. K. Ryu. **LoRA Training in the NTK Regime has No Spurious Local Minima**. _International Conference on Machine Learning (Oral)_, 2024. [[arXiv](https://arxiv.org/abs/2402.11867)]
 
-- **Park, J.** and Ryu, E. K.
-**Exact Optimal Accelerated Complexity for Fixed-Point Iterations.**
-_International Conference on Machine Learning (ICML)_, 2022.
-(Long talk, top 118/5630=2% of papers)
-[[PMLR](https://proceedings.mlr.press/v162/park22c.html)] [[arXiv](https://arxiv.org/abs/2201.11413)]
+- **U.Jang**, S. Das Gupta, and E. K. Ryu. **Computer-Assisted Design of Accelerated Composite Optimization Methods: OptISTA**. _Under major revision in Mathematical Programming_, 2023. [[arXiv](https://arxiv.org/abs/2305.15704)]
+
+- **U.Jang** (published as E. Chang), J. Kim, H. Kwak, H.H. Lee, and S.G. Youn. **Irreducibly SU(2)-covariant quantum channels of low rank**. _Reviews in Mathematical Physics_, 2022. [[arXiv](https://arxiv.org/abs/2105.00709)]
+
+ 
