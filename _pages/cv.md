@@ -34,12 +34,11 @@ INVITED TALKS & CONFERENCES
 
 TEACHING EXPERIENCES
 -----
-
--**2024&ensp;** Complex Analysis, _SNU_.
--**2024&ensp;** Mathematical Machine Learning Theory, _SNU_.
--**2023&ensp;** Calculus 2, _SNU_.
--**2022&ensp;** Mathematical Algorithms, _SNU_.
--**2021&ensp;** Teaching Practicum, _Seoul National University High School_.
+- **2024&ensp;** Complex Analysis, _SNU_.
+- **2024&ensp;** Mathematical Machine Learning Theory, _SNU_.
+- **2023&ensp;** Calculus 2, _SNU_.
+- **2022&ensp;** Mathematical Algorithms, _SNU_.
+- **2021&ensp;** Teaching Practicum, _Seoul National University High School_.
 
 
 
