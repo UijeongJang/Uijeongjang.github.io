@@ -7,7 +7,7 @@ permalink: /cv/
 EDUCATION
 -----
 
-- **2022-&emsp;&emsp;** M.S., Seoul National University
+- **2022-&emsp;&emsp;** &ensp; M.S., Seoul National University
   - Dept. of Mathematical Sciences. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
 
 - **2016-2022&emsp;** B.Sc., Seoul National University
@@ -22,7 +22,7 @@ HONORS & AWARDS
 
 INVITED TALKS & CONFERENCES
 -----
-- **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting--Verification of Decision-Making Algorithms, _Seattle, US._.
+- **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting--Verification of Decision-Making Algorithms, _Seattle, US_.
 
 - **&emsp;&ensp;Aug.2024&ensp;** SNU--KAIST AI/ML Theory Workshop, _Gangneung, South Korea_.
 
