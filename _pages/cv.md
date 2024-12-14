@@ -22,9 +22,9 @@ HONORS & AWARDS
 
 INVITED TALKS & CONFERENCES
 -----
-- **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting--Verification of Decision-Making Algorithms, _Seattle, US_.
+- **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting-Verification of Decision-Making Algorithms, _Seattle, US_.
 
-- **&emsp;&ensp;Aug.2024&ensp;** SNU--KAIST AI/ML Theory Workshop, _Gangneung, South Korea_.
+- **&emsp;&ensp;Aug.2024&ensp;** SNU-KAIST AI/ML Theory Workshop, _Gangneung, South Korea_.
 
 - **&emsp;&ensp;Jul.2024&ensp;** The 41st International Conference on Machine Learning,  _Vienna, Austria_.
 
