@@ -132,15 +132,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:uijeong97@snu.ac.kr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/UijeongJang"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.co.kr/citations?user=-2WiOv4AAAAJ&hl=ko"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:uijeong97@snu.ac.kr"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/UijeongJang"
+    # - label: "Google Scholar"
+    #   icon: "fas fa-graduation-cap"
+    #   url: "https://scholar.google.co.kr/citations?user=-2WiOv4AAAAJ&hl=ko"
 
 
 # Reading Files
