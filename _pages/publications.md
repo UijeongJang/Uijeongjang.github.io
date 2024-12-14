@@ -1,4 +1,5 @@
 ---
+title: "Publications"
 collection: publications
 excerpt: "The list of published papers."
 permalink: /publications/
