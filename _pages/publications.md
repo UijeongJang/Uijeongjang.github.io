@@ -6,7 +6,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Publications 
 -----
 
 - **U. Jang**, J. D. Lee, and E. K. Ryu. **LoRA Training in the NTK Regime has No Spurious Local Minima**. _International Conference on Machine Learning (Oral)_, 2024. [[arXiv](https://arxiv.org/abs/2402.11867)]
