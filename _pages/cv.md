@@ -7,7 +7,7 @@ permalink: /cv/
 EDUCATION
 -----
 
-- **2022-&ensp;&ensp;** &emsp;&nbsp; M.S., Seoul National University
+- **2022-&ensp;&ensp;** &emsp;&nbsp;&nbsp; M.S., Seoul National University
   - Dept. of Mathematical Sciences. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
 
 - **2016-2022&ensp;** B.Sc., Seoul National University
@@ -17,7 +17,7 @@ EDUCATION
 HONORS & AWARDS
 -----
 
-- **2024&ensp;&ensp;&ensp;** &emsp;&nbsp; Outstanding TA Award, (_SNU_).
+- **2024&ensp;&ensp;&ensp;** &emsp;&nbsp;&nbsp; Outstanding TA Award, (_SNU_).
 - **2022-2024&ensp;**  Merit-based Scholarships, (_SNU_).
 
 INVITED TALKS & CONFERENCES
