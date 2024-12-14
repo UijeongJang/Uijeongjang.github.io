@@ -17,7 +17,7 @@ EDUCATION
 HONORS & AWARDS
 -----
 
-- **&emsp;2024&ensp;** Outstanding TA Award, (_SNU_).
+- **&emsp;&emsp;2024&ensp;** Outstanding TA Award, (_SNU_).
 - **2022--2024&ensp;**  Merit-based Scholarships, (_SNU_).
 
 INVITED TALKS & CONFERENCES
