@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Uijeong Jang"
   avatar           : "/assets/profiles/profile.jpg"
-  bio              : "Master's student at SNU math"
-  location         : "Seoul, South Korea"
+  bio              : "Ph.D student at UCLA math"
+  location         : "Los Angeles, California"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:uijeong97@snu.ac.kr"
+      url: "mailto:uijeongjang@math.ucla.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UijeongJang"
