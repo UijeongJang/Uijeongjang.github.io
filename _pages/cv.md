@@ -7,10 +7,10 @@ permalink: /cv/
 EDUCATION
 -----
 
-- **2025--&ensp;&ensp;** &emsp;&nbsp;&nbsp;&nbsp; Ph.D, UCLA
+- **2025--&ensp;&ensp;** &emsp;&nbsp;&nbsp;&nbsp; Ph.D student, UCLA
   - Dept. of Mathematics. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
 
-- **2022--2025&ensp;; M.S., Seoul National University
+- **2022--2025&ensp;** M.S., Seoul National University
   - Dept. of Mathematical Sciences. 
 
 - **2016--2022&ensp;** B.Sc., Seoul National University
@@ -25,6 +25,8 @@ HONORS & AWARDS
 
 INVITED TALKS & CONFERENCES
 -----
+- **&emsp;&ensp;Jul.2025&ensp;** International Conference on Continuous Optimization, _Los Angeles, US_.
+- 
 - **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting-Verification of Decision-Making Algorithms, _Seattle, US_.
 
 - **&emsp;&ensp;Aug.2024&ensp;** SNU-KAIST AI/ML Theory Workshop, _Gangneung, South Korea_.
@@ -37,6 +39,7 @@ INVITED TALKS & CONFERENCES
 
 TEACHING EXPERIENCES
 -----
+
 - **2024&ensp;** Complex Analysis, _SNU_.
 - **2024&ensp;** Mathematical Machine Learning Theory, _SNU_.
 - **2023&ensp;** Calculus 2, _SNU_.
