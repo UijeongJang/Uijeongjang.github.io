@@ -26,7 +26,7 @@ HONORS & AWARDS
 INVITED TALKS & CONFERENCES
 -----
 - **&emsp;&ensp;Jul.2025&ensp;** International Conference on Continuous Optimization, _Los Angeles, US_.
-- 
+ 
 - **&emsp;&ensp;Oct.2024&ensp;** Informs Annual Meeting-Verification of Decision-Making Algorithms, _Seattle, US_.
 
 - **&emsp;&ensp;Aug.2024&ensp;** SNU-KAIST AI/ML Theory Workshop, _Gangneung, South Korea_.
