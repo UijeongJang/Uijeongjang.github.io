@@ -7,8 +7,11 @@ permalink: /cv/
 EDUCATION
 -----
 
-- **2022--&ensp;&ensp;** &emsp;&nbsp;&nbsp;&nbsp; M.S., Seoul National University
-  - Dept. of Mathematical Sciences. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
+- **2025--&ensp;&ensp;** &emsp;&nbsp;&nbsp;&nbsp; Ph.D, UCLA
+  - Dept. of Mathematics. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
+
+- **2022--2025&ensp;; M.S., Seoul National University
+  - Dept. of Mathematical Sciences. 
 
 - **2016--2022&ensp;** B.Sc., Seoul National University
   - Dept. of Mathematics Education
