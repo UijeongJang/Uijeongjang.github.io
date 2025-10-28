@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Publications"
 collection: publications
 excerpt: "The list of published papers."
 author_profile: true
