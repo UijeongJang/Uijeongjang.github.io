@@ -8,6 +8,8 @@ author_profile: true
 
 Publications
 -----
+- **U.Jang**, K.Sun, W.Yin, and E. K. Ryu, **ALiA: Adaptive Linearized ADMM**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2602.15000)]
+
 - **U.Jang** and E. K. Ryu. **Point convergence of Nesterov's accelerated gradient method: An AI-assisted proof**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2510.23513)]
 
 - C. Park, **U.Jang**, E. K. Ryu, and I. Yang. **Sharpness-Aware Minimization Can Hallucinate Minimizers**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2509.21818)]
