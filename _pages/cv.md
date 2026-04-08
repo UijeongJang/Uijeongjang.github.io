@@ -10,10 +10,10 @@ EDUCATION
 - **2025--&ensp;&ensp;** &emsp;&nbsp;&nbsp;&nbsp; Ph.D student, UCLA
   - Dept. of Mathematics. (Advisor: [Ernest K. Ryu](http://ernestryu.com))
 
-- **2022--2025&ensp;** M.S., Seoul National University
+- **2025 &ensp;** M.S., Seoul National University
   - Dept. of Mathematical Sciences. 
 
-- **2016--2022&ensp;** B.Sc., Seoul National University
+- **2022 &ensp;** B.Sc., Seoul National University
   - Dept. of Mathematics Education
 
 
