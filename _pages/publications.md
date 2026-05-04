@@ -12,7 +12,7 @@ Publications
 
 - **U.Jang** and E. K. Ryu. **Point convergence of Nesterov's accelerated gradient method: An AI-assisted proof**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2510.23513)]
 
-- C. Park, **U.Jang**, E. K. Ryu, and I. Yang. **Sharpness-Aware Minimization Can Hallucinate Minimizers**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2509.21818)]
+- C. Park, **U.Jang**, E. K. Ryu, and I. Yang. **Sharpness-Aware Minimization Can Hallucinate Minimizers**. _International Conference on Machine Learning_, 2026. [[Link](https://arxiv.org/abs/2509.21818)]
 
 - **U.Jang**, S. Das Gupta, and E. K. Ryu. **Computer-Assisted Design of Accelerated Composite Optimization Methods: OptISTA**. _Mathematical Programming_, 2025. [[Link](https://link.springer.com/content/pdf/10.1007/s10107-025-02258-5.pdf)]
 
