@@ -8,13 +8,16 @@ author_profile: true
 
 Publications
 -----
-- **U.Jang**, K. Sun, W. Yin, and E. K. Ryu, **ALiA: Adaptive Linearized ADMM**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2602.15000)]
+- G. M. Chari, **U. Jang** , E. K. Ryu , B. Açıkmeşe, **Optimal Acceleration for Proximal Minimization of the
+Sum of Convex and Strongly Convex Functions**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2605.08593)]
 
-- **U.Jang** and E. K. Ryu. **Point convergence of Nesterov's accelerated gradient method: An AI-assisted proof**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2510.23513)]
+- **U. Jang**, K. Sun, W. Yin, and E. K. Ryu, **ALiA: Adaptive Linearized ADMM**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2602.15000)]
 
-- C. Park, **U.Jang**, E. K. Ryu, and I. Yang. **Sharpness-Aware Minimization Can Hallucinate Minimizers**. _International Conference on Machine Learning_, 2026. [[Link](https://arxiv.org/abs/2509.21818)]
+- **U. Jang** and E. K. Ryu. **Point convergence of Nesterov's accelerated gradient method: An AI-assisted proof**. _Preprint_, 2025. [[Link](https://arxiv.org/abs/2510.23513)]
 
-- **U.Jang**, S. Das Gupta, and E. K. Ryu. **Computer-Assisted Design of Accelerated Composite Optimization Methods: OptISTA**. _Mathematical Programming_, 2025. [[Link](https://link.springer.com/content/pdf/10.1007/s10107-025-02258-5.pdf)]
+- C. Park, **U. Jang**, E. K. Ryu, and I. Yang. **Sharpness-Aware Minimization Can Hallucinate Minimizers**. _International Conference on Machine Learning_, 2026. [[Link](https://arxiv.org/abs/2509.21818)]
+
+- **U. Jang**, S. Das Gupta, and E. K. Ryu. **Computer-Assisted Design of Accelerated Composite Optimization Methods: OptISTA**. _Mathematical Programming_, 2025. [[Link](https://link.springer.com/content/pdf/10.1007/s10107-025-02258-5.pdf)]
 
 - **U. Jang**, J. D. Lee, and E. K. Ryu. **LoRA Training in the NTK Regime has No Spurious Local Minima**. _International Conference on Machine Learning (Oral, top 144/9473=1.5% of papers)_, 2024. [[Link](https://proceedings.mlr.press/v235/jang24d.html)]
 
