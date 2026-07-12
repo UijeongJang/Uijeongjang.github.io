@@ -24,6 +24,6 @@ Sum of Convex and Strongly Convex Functions**. _Preprint_, 2026. [[Link](https:/
 
 - **U. Jang**, J. D. Lee, and E. K. Ryu. **LoRA Training in the NTK Regime has No Spurious Local Minima**. _International Conference on Machine Learning (Oral, top 144/9473=1.5% of papers)_, 2024. [[Link](https://proceedings.mlr.press/v235/jang24d.html)]
 
-- **U.Jang** (published as E. Chang), J. Kim, H. Kwak, H.H. Lee, and S.G. Youn. **Irreducibly SU(2)-covariant quantum channels of low rank**. _Reviews in Mathematical Physics_, 2022. [[Link](https://www.worldscientific.com/doi/abs/10.1142/S0129055X22500210?srsltid=AfmBOopnfjjS99VgaX6Vjuly6eo-y8I-uid-j1PHVzmae_VE0ozoTH3t)]
+- **U. Jang**, J. Kim, H. Kwak, H.H. Lee, and S.G. Youn. **Irreducibly SU(2)-covariant quantum channels of low rank**. _Reviews in Mathematical Physics_, 2022. [[Link](https://www.worldscientific.com/doi/abs/10.1142/S0129055X22500210?srsltid=AfmBOopnfjjS99VgaX6Vjuly6eo-y8I-uid-j1PHVzmae_VE0ozoTH3t)]
 
  
