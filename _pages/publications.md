@@ -8,6 +8,9 @@ author_profile: true
 
 Publications
 -----
+- **U. Jang** and E. K. Ryu, **Higher-Order Derivatives Do Not Accelerate the Computation of Fixed Points**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2607.05947)]
+
+
 - G. M. Chari, **U. Jang** , E. K. Ryu , B. Açıkmeşe, **Optimal Acceleration for Proximal Minimization of the
 Sum of Convex and Strongly Convex Functions**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2605.08593)]
 
