@@ -39,7 +39,7 @@ INVITED TALKS & CONFERENCES
 
 TEACHING EXPERIENCES
 -----
-- **2026&ensp;** MATH 33A (Linear Algebra and Applications, _UCLA_.
+- **2026&ensp;** MATH 33A (Linear Algebra and Applications), _UCLA_.
 - **2025&ensp;** MATH 273A (Optimization Theory), _UCLA_.
 - **2024&ensp;** Complex Analysis, _SNU_.
 - **2024&ensp;** Mathematical Machine Learning Theory, _SNU_.
