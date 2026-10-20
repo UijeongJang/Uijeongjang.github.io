@@ -8,6 +8,10 @@ author_profile: true
 
 Publications
 -----
+
+- J.R, Park\*, **U. Jang\***, Y. Chen, **Acceleration and its Limits in Gaussian Variational Inference**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2610.21020)]
+
+
 - **U. Jang** and E. K. Ryu, **Higher-Order Derivatives Do Not Accelerate the Computation of Fixed Points**. _Preprint_, 2026. [[Link](https://arxiv.org/abs/2607.05947)]
 
 
